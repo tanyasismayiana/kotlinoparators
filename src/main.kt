@@ -29,7 +29,7 @@ fun year(){
 
     val x= "i am"
     var y = 21
-    val z= "years old"
+    val z= "year old"
     println(x+" "+y+" "+z)
 }
 
